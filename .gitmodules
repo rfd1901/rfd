@@ -1,0 +1,7 @@
+[submodule "themes/material-blog"]
+	path = themes/material-blog
+	url = git@github.com:Xzya/hugo-material-blog.git
+[submodule "public"]
+	path = public
+	url = git@github.com:rfd1901/rfd1901.github.io.git
+	branch = master
